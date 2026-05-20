@@ -3,9 +3,9 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
+<a class="home-btn" href="/files/Zemin_Chen_CV.pdf" target="_blank">View CV ▸</a>
 
 {% include base_path %}
 
