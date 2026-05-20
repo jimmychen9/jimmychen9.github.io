@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="home-card">
 
-My research focuses on AI security, with particular interests in backdoor attacks, adversarial machine learning, and trustworthy machine learning systems. I am currently exploring robust and persistent backdoor attacks, adversarial robustness, and security challenges in both classical and quantum machine learning models.
+I am a Ph.D. candidate in Computer Science at Old Dominion University (ODU), under the guidance of Dr. Rui Ning. I earned both my B.S. degree in Electrical Engineering and my M.S. degree in Cybersecurity from Old Dominion University. My current research focuses on AI security, backdoor attacks, adversarial machine learning, and trustworthy AI systems.
 
 <br>
 
@@ -17,14 +17,16 @@ My research focuses on AI security, with particular interests in backdoor attack
 
 </div>
 
-## Education
+## Research Interests
 
 <div class="home-card">
 
 <ul class="clean-list">
-  <li><strong>Old Dominion University</strong> — Ph.D., Computer Science <span class="muted">(01/2024 – Present)</span></li>
-  <li><strong>Old Dominion University</strong> — M.S., Cyber Security <span class="muted">(01/2021 – 01/2023)</span></li>
-  <li><strong>Old Dominion University</strong> — B.S., Electronic Engineering <span class="muted">(09/2017 – 12/2020)</span></li>
+  <li>AI Security</li>
+  <li>Backdoor Attacks and Defenses</li>
+  <li>Adversarial Machine Learning</li>
+  <li>Trustworthy Machine Learning</li>
+  <li>Quantum Machine Learning Security</li>
 </ul>
 
 </div>
