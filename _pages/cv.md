@@ -5,15 +5,19 @@ permalink: /cv/
 author_profile: true
 ---
 
+<div class="home-card">
+
 <a class="home-btn" href="/files/Zemin_Chen_CV.pdf" target="_blank">View CV ▸</a>
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<h2>Education</h2>
+
+<ul class="clean-list">
+  <li><strong>Old Dominion University</strong> — Ph.D. Candidate in Computer Science</li>
+  <li><strong>Old Dominion University</strong> — M.S. in Cybersecurity</li>
+  <li><strong>Old Dominion University</strong> — B.S. in Electrical Engineering</li>
+</ul>
 
 Work experience
 ======
