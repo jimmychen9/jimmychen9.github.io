@@ -27,17 +27,3 @@ My research focuses on AI security, with particular interests in backdoor attack
 </ul>
 
 </div>
-
-## Research Interests
-
-<div class="home-card">
-
-<ul class="clean-list">
-  <li>AI Security</li>
-  <li>Backdoor Attacks and Defenses</li>
-  <li>Adversarial Machine Learning</li>
-  <li>Trustworthy Machine Learning</li>
-  <li>Quantum Machine Learning Security</li>
-</ul>
-
-</div>
