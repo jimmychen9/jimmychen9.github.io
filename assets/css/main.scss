@@ -41,3 +41,45 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom content cards inspired by Miao Lin's page */
+.home-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px 28px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+  border: 1px solid #eef2f7;
+  margin-bottom: 28px;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+.home-btn {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 11px 20px;
+  background: #2563eb;
+  color: #ffffff !important;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.home-btn:hover {
+  background: #1d4ed8;
+  color: #ffffff !important;
+}
+
+.clean-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.clean-list li {
+  background: #f8fafc;
+  padding: 13px 16px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border-left: 4px solid #e8eef9;
+}
