@@ -42,41 +42,60 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom dark top navigation */
+/* Custom navigation like Miao Lin's page */
 .masthead {
-  background-color: #0b192d !important;
+  background: #0b192d !important;
   border-bottom: none !important;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.15) !important;
 }
 
 .masthead__inner-wrap {
-  background-color: #0b192d !important;
   max-width: 1200px !important;
   margin: 0 auto !important;
-  padding: 0 40px !important;
+  padding: 0 20px !important;
+  background: transparent !important;
 }
 
 .greedy-nav {
-  background-color: #0b192d !important;
+  height: 64px !important;
+  background: transparent !important;
   display: flex !important;
   align-items: center !important;
+  justify-content: space-between !important;
 }
 
 .greedy-nav .site-title {
-  color: #ffffff !important;
-  font-weight: 700 !important;
+  color: #e5ecf8 !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.5px !important;
   margin-right: auto !important;
 }
 
 .greedy-nav .visible-links {
+  display: flex !important;
+  align-items: center !important;
   margin-left: auto !important;
 }
 
+.greedy-nav .visible-links li {
+  display: inline-block !important;
+}
+
 .greedy-nav a {
-  color: #dbeafe !important;
-  font-weight: 600 !important;
+  color: #cfe0ff !important;
   text-decoration: none !important;
+  font-weight: 600 !important;
 }
 
 .greedy-nav a:hover {
   color: #ffffff !important;
+}
+
+.greedy-nav .visible-links a {
+  margin-left: 18px !important;
+}
+
+.greedy-nav button {
+  color: #cfe0ff !important;
+  background: transparent !important;
 }
