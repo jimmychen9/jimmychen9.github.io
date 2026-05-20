@@ -12,16 +12,16 @@ main:
     url: /publications/
 
   - title: "Awards"
-    url: /Awards/    
+    url: /awards/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Grants"
-    url: /Grants/
+    url: /grants/
         
   - title: "Mentoring"
-    url: /Mentoring/
+    url: /mentoring/
     
   - title: "CV"
     url: /cv/
@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   - title: "Contact"
-    url: /Contact/
+    url: /contact/
